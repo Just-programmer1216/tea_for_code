@@ -8,7 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Just-programmer1216/tea_for_code.git"
+    "url": "https://github.com/Just-programmer1216/tea_for_code.git"
+  },
+  "dependencies": {
+    "cod_for_tea": "1.0.0",
+    "minti_fulkerson": "0.1.4"
   },
   "author": "",
   "license": "ISC",
